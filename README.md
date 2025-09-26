@@ -50,6 +50,8 @@ Actualmente redirijo mi carrera hacia el **desarrollo web**. Este **cambio de se
 
 **Coordinador y dinamizador de proyectos (2016–2023)** — Colaboraciones con la Universidad Pablo de Olavide, la Junta de Andalucía y entidades del tercer sector (Asociación Entre Amigos, Asociación de Mujeres Nerea, EMA-RTV, entre otras). Diseño y ejecución de proyectos y campañas centradas en igualdad de género, participación ciudadana y trabajo en contextos vulnerables. Habilidades aplicables a tecnología: recogida de requisitos, coordinación multidisciplinar, diseño de materiales y evaluación de impacto.
 
+> Para más detalles sobre mi experiencia social y sus habilidades transferibles, ver: [Experiencia ampliada](./docs/EXPERIENCE.md)
+
 ---
 
 ## 🎯 Qué busco
