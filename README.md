@@ -1,7 +1,7 @@
 # Joaquín Maguilla Gómez 🚀
 **Desarrollador web en formación · Orientado a Backend · Lógica de programación (Java / JavaScript)**
 
-[📧 jomagocb@gmail.com](mailto:jomagocb@gmail.com) · 665 83 14 94 · [LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-maguilla-g%C3%B3mez-7b7a14163/) · [GitHub](https://github.com/tu-usuario)  
+📫 jomagocb@gmail.com · 📱 665 83 14 94 · [LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-maguilla-g%C3%B3mez-7b7a14163/) 
 
 ---
 
@@ -20,47 +20,40 @@
 ---
 
 ## 👋 Sobre mí
-Estudiante de 2.º de **DAW (Desarrollo de Aplicaciones Web)** con sólida formación en **Sociología** y más de 10 años de experiencia en el sector social. Me he especializado en **igualdad de género (masculinidades)** y **participación ciudadana en contextos vulnerables**. Esa experiencia me ha permitido comprender dinámicas sociales complejas y diseñar y liderar proyectos con impacto comunitario. 
+Soy estudiante de 2.º de **DAW** con una sólida formación en **Sociología** y más de 10 años de experiencia en el ámbito social. Me he especializado en **igualdad de género (masculinidades)** y **participación ciudadana en contextos vulnerables**, lo que me ha permitido desarrollar habilidades clave en coordinación de equipos, gestión de proyectos y análisis de necesidades.
 
-Actualmente redirijo mi carrera hacia el **desarrollo web (preferentemente backend)**. Este **cambio de sector** es un fiel reflejo de mi deseo de crecimiento personal y profesional, así como la voluntad de aportar valor mediante la tecnología y la innovación. Me destaco por la **lógica de programación** y por la capacidad de aplicar soluciones tecnológicas con impacto social.
+Actualmente redirijo mi carrera hacia el **desarrollo web**. Este **cambio de sector** es un fiel reflejo de mi deseo de crecimiento personal y profesional, así como la voluntad de aportar valor mediante la tecnología y la innovación.
 
-> **Transparencia:** mis cursos fueron de acercamiento/práctica y mis proyectos actuales son académicos/personales; mi fuerza real hoy es la lógica y el razonamiento programático, y estoy en proceso de consolidar experiencia práctica en backend y APIs.
+> **Transparencia:** mis cursos han sido de acercamiento y mis proyectos actuales son académicos o personales; mi fortaleza reside en la lógica y el razonamiento programático, y estoy en proceso de consolidar experiencia práctica en backend y APIs.
 
 ---
 
-## ⭐ Lo que ofrezco (resumen rápido)
-- Lógica de programación sólida en **Java**, **PHP** y **JavaScript**.  
-- Conocimiento y práctica en tecnologías web: **React**, **Spring Boot**, **MySQL**, **HTML/CSS**.  
-- Perspectiva diferencial: experiencia en **proyectos sociales** (igualdad, participación, empleo) aplicable a iniciativas públicas y tercer sector.  
-- Actitud y ritmo de aprendizaje: rápida adaptación, enfoque práctico y ganas de asumir responsabilidades en proyectos reales.
+## ⭐ Lo que aporto
+- **Habilidades transferibles:**
+  > Cuento con experiencia en coordinación y gestión de proyectos sociales, donde he dinamizado equipos, orientado el trabajo hacia resultados comunes y facilitado la resolución colectiva de problemas en contextos vulnerables. Estas capacidades las aplico ahora al ámbito tecnológico: planificación de tareas, coordinación entre perfiles (front/back) y priorización de requisitos en proyectos con impacto social. 
+- **Lógica de programación sólida:** experiencia en **Java**, **PHP** y **JavaScript**.  
+- **Conocimientos en tecnologías web:** **React**, **Spring Boot**, **MySQL**, **HTML/CSS**.  
+- **Actitud y aprendizaje:** rápida adaptación, enfoque práctico y motivación para asumir responsabilidades en proyectos reales.
 
 ---
 
 ## 🧰 Stack técnico (actual)
 **Lenguajes:** `Java` · `JavaScript` · `PHP` · `TypeScript` (en formación)  
 **Front-end / marcado:** `HTML5` · `CSS3` · `React (TypeScript)`  
-**Back-end:** `Spring Boot` (APIs REST concepts)  
+**Back-end:** `Spring Boot` (APIs REST)  
 **BBDD / consultas:** `MySQL` · `SQL`  
 **Herramientas:** `Git` · `Eclipse` · `Visual Studio Code`  
-**Intereses:** Ciberseguridad aplicada a apps web
 
 ---
 
-## 💼 Experiencia resumida
-**Coordinador de proyectos de participación ciudadana a través de medios de comunicación** — Asociación Entre Amigos Sevilla: Radio Abierta Sevilla (2016–2023)  
-- Diseño y ejecución de talleres y campañas en contextos vulnerables.  
-- Coordinación con administraciones y ONGs, análisis de necesidades y evaluación de impacto.  
-- Esta trayectoria aporta la perspectiva de **usuario/beneficiario** que aplico ahora al diseño de soluciones tecnológicas.
+## 💼 Experiencia relevante (resumen)
+
+**Coordinador y dinamizador de proyectos (2016–2023)** — Colaboraciones con la Universidad Pablo de Olavide, la Junta de Andalucía y entidades del tercer sector (Asociación Entre Amigos, Asociación de Mujeres Nerea, EMA-RTV, entre otras). Diseño y ejecución de proyectos y campañas centradas en igualdad de género, participación ciudadana y trabajo en contextos vulnerables. Habilidades aplicables a tecnología: recogida de requisitos, coordinación multidisciplinar, diseño de materiales y evaluación de impacto.
 
 ---
 
 ## 🎯 Qué busco
-- **Prácticas DAW** o **posición junior (backend)** — Java / APIs / Spring Boot.  
-- Proyectos con impacto social: administraciones públicas, ONGs o empresas con líneas de producto social.  
-- Equipos donde pueda aprender y aportar desde la lógica y el enfoque centrado en usuario.
-
----
-
-**Email:** jomagocb@gmail.com · **LinkedIn:** linkedin.com/in/joaquin-maguilla-gomez
+- **Prácticas DAW** o **posición junior** — Java / APIs / Spring Boot.  
+- Equipos donde pueda aprender y aportar.
 
 ---
