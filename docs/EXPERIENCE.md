@@ -11,13 +11,6 @@
 
 ---
 
-<div align="center">
-  <!-- Guarda assets/timeline.svg en tu repo para que se vea -->
-  <img src="../assets/timeline.svg" alt="Timeline 2016-2023" style="max-width:100%;height:auto;border-radius:8px;box-shadow:0 3px 12px rgba(0,0,0,0.12)" />
-</div>
-
----
-
 ## 🔎 Resumen (rápido)
 He colaborado y liderado proyectos con universidades, administraciones públicas y entidades del tercer sector (2016–2023) en Sevilla y provincia. Mi trabajo se ha centrado en **participación ciudadana**, **igualdad de género (masculinidades)** y la intervención comunitaria en contextos de vulnerabilidad (p. ej. Polígono Sur). Estas experiencias me formaron en diseño de proyectos, interlocución con stakeholders, coordinación de equipos y evaluación de impacto —competencias que aplico hoy en el **análisis de requisitos**, **documentación técnica** y **pruebas de usuario** en proyectos digitales.
 
